@@ -1,1 +1,1 @@
-Include pretrained model, bounding box, standard, bootstrap model
+# Include pretrained model, bounding boxes, standard model, bootstrap model
